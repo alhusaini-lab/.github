@@ -1,3 +1,1 @@
-# Alhusaini Lab Git Organization
-
-A collection of work that has been done with the lab!
+Holds readme that is PUBLIC lab landing page. 
